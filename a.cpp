@@ -8,7 +8,7 @@ int main(){
     for(int i=0; i<arr.size();i++){
         if(minn>arr[i]){
             minn=arr[i];
-        }
+        }#edited by naveen
         if(maxx<arr[i]){
             maxx=arr[i];
         }
@@ -16,5 +16,7 @@ int main(){
     cout<<"Max diff is: "<< (maxx-minn)<<endl;
     cout<<"The numbers are "<<maxx<<" and "<<minn;
     return 0; #modified by CS260
+        
+        
 }
 
