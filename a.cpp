@@ -8,7 +8,7 @@ int main(){
     for(int i=0; i<arr.size();i++){
         if(minn>arr[i]){
             minn=arr[i];
-        }#edited by naveen
+        }  //edited by naveen
         if(maxx<arr[i]){
             maxx=arr[i];
         }
