@@ -13,4 +13,6 @@ int main(){
     }
     cout<<"Max diff is: "<< (maxx-minn)<<endl;
     cout<<"The numbers are "<<maxx<<" and "<<minn;
+    return 0; #modified by CS260
 }
+
