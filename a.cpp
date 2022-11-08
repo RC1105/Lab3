@@ -1,5 +1,7 @@
 #include "bits/stdc++.h"
 using namespace std;
+// edited by Nishanth 
+
 int main(){
     vector<int> arr{1,4,5,68,2,1,5,88,9,100};
     int minn=INT_MAX, maxx=INT_MIN;
